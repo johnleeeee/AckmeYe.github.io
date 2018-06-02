@@ -11,7 +11,7 @@
 
 这是一个图片：![图片](https://gravatar.com/avatar/a8927e5ded3997df5ca376cbca8322f7?s=80&d=https://codepen.io/assets/avatars/user-avatar-80x80-bdcd44a3bfb9a5fd01eb8b86f9e033fa1a9897c3a15b33adfc2649a002dab1b6.png)
 
-这里是仓库的图片： [repo](./images/jifen.png)
+这里是仓库的图片： ![repo](./images/jifen.png)
 
 <table>
   <tr>
