@@ -2,4 +2,4 @@
 
 # <img src="https://github.com/AckmeYe/AckmeYe.github.io/blob/master/images/Company%20Logo.png?raw=true" width="10%" height="10%" />  GRAHOPE NEW MATERIALS TECHNOLOGIES INC.
 
-## Patented Thechnology: Graphene Heating Film
+## Patented Technology: Graphene Heating Film
